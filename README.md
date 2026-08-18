@@ -1,4 +1,4 @@
-# Hello, I'm Xhaolean 👋
+# Hello, I'm Atul 👋
 
 A student interested in programming, technology, Linux, and cybersecurity.
 
