@@ -14,9 +14,9 @@ My current interests are **programming, web development, Linux, networking, and 
 
 | Skill                       | Associated Project                       |
 | --------------------------- | ---------------------------------------- |
-| Flask Backend Development   | <a href="https://github.com/Xhaolean/Feedback-system-via-flask"> Flask Projects</a>     |
-| HTML/CSS/JavaScript         | <a href="https://aleznaor.pythonanywhere.com/">Express Yourself </a>            |
-| Static Website Hosting      | <a href="https://how-day.netlify.app/"> Emotional website  </a>               |
+| Flask Backend Development   | <a href="https://github.com/Xhaolean/Feedback-system-via-flask"> Flask Projects </a>     |
+| HTML/CSS/JavaScript         | <a href="https://aleznaor.pythonanywhere.com/"> See Here  </a>            |
+| Static Website Hosting      | <a href="https://how-day.netlify.app/">  See Here  </a>               |
 | Voice Assistant Development | <a href="https://github.com/Xhaolean/Project_OPTIMUS"> Optimus </a>          |
 | Automation                  | <a href="https://github.com/Xhaolean/Project_OPTIMUS"> Optimus </a>          |
 
